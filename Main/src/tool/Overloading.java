@@ -17,6 +17,33 @@ class Any2 extends Any {
 	@Override
 	void meth() {
 		// TODO Auto-generated method stub
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		System.out.println("overriding");
 	}
 	void meth(int a) {
